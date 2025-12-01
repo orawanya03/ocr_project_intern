@@ -20,8 +20,9 @@
 - ใช้กฎ Regex + LLM ช่วยแก้ OCR ผิด
 
 ## 🛠 Tech Stack
-Python, YOLOv8/YOLOv11, EasyOCR, OCR.Space API, Google Vision, Regex, LLM
+Python, YOLOv8/YOLOv11, EasyOCR, OCR.Space API, LLM
 
 ## 👩‍💻 Author
 **Orawanya Insalee (Eve)**  
-Machine Learning Engineer Intern, KBTG
+Data Analytics Intern, Lotus's
+
